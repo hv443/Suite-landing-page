@@ -193,6 +193,7 @@ footer{
     justify-content: center;
     flex-direction: column;
     margin: 3rem 0;
+    width: 100%;
 }
 
 footer .logo,.copyright,.social-media{
